@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "export SPOTIFY_CLIENT_ID=47c457c054214945af809dc6674f5cff && export SPOTIFT_CLIENT_SECRET=34f2a860e8b542e098c979f11d1c6c6a && node index.js",
   "engines": {
     "node": "5.9.1"
   }
